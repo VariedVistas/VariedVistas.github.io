@@ -4,11 +4,11 @@ title: About
 ---
 About me and contact.
 
-{% raw %}
 <form
   action="https://formspree.io/f/mpwppqbk"
   method="POST"
 >
+  
   <label>
     Your email:
     <input type="email" name="email">
@@ -20,4 +20,3 @@ About me and contact.
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-{% endraw %}
