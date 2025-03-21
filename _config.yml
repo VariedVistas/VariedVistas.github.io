@@ -40,3 +40,8 @@ defaults:
       type: post
     values:
       tags: Other
+
+kramdown:
+  parse_block_html: true  # Add this line
+  syntax_highlighter_opts:
+    disable: true
