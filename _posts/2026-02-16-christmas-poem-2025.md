@@ -1,19 +1,7 @@
-## Blog Post Title From First Header
+## Incase You Missed It, Here's Moms 2025 Christmas Poem (Test Post)
 
 For anyone who may have missed our Christmas poem from 2025, here it is again!
 
 ---
 
-### This is a header
-
-#### Header A
-
-```subhead a
-new phone who dis
-```
-
-#### Header B
-
-```subhead b
-neat
-```
+<embed src="/_assets/christmaspoem2025.pdf" type="application/pdf" width="100%" height="600px" />
